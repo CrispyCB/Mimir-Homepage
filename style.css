@@ -1,4 +1,6 @@
 /* Sets the font family to Skranji for the h1 of the logo-wrapper*/
 #logo-wrapper h1 {
     font-family: 'Skranji', cursive;
+    margin-left: 45%;
+    margin-top: 10%;
 }
