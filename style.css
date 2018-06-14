@@ -3,5 +3,9 @@
     font-family: 'Skranji', cursive;
     margin-left: 45%;
     margin-top: 12%;
+    margin-bottom: -12px;
     font-size: 60px;
+}
+#form-box {
+    margin-left: 43%;
 }
