@@ -9,6 +9,7 @@
 #form-box {
     margin-left: 43%;
 }
-input {
+input[type="submit"] {
     border: 1px solid;
+    margin-left: 10px;
 }
