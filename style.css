@@ -11,6 +11,7 @@
 }
 input[type="submit"] {
     border: 1px solid;
+    font-family: "Oswald", sans-serif;
 }
 input[type="text"]{
     width: 350px;
