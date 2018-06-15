@@ -6,10 +6,13 @@
     margin-bottom: -12px;
     font-size: 60px;
 }
-#form-box {
-    margin-left: 43%;
+#buttons {
+    margin-left: 43.5%;
 }
 input[type="submit"] {
     border: 1px solid;
-    margin-left: 10px;
+}
+input[type="text"]{
+    width: 350px;
+    margin-left: 38%;
 }
