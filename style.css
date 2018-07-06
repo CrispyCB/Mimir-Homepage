@@ -1,3 +1,10 @@
+ul {
+    list-style-type: none;
+    font-family: "Oswald", sans-serif;
+}
+li {
+    display: inline-block;
+}
 /* Sets the font family to Skranji for the h1 of the logo-wrapper*/
 #logo-wrapper h1 {
     font-family: 'Skranji', cursive;
@@ -9,6 +16,10 @@
 #buttons {
     margin-left: 44.5%;
     margin-top: 1.5%;
+}
+#Hermóðr, #images {
+    float: right;
+    padding-right: 1%;
 }
 input[type="submit"] {
     border: 1px solid;
