@@ -1,3 +1,6 @@
+body {
+    position: relative;
+}
 ul {
     list-style-type: none;
     font-family: "Oswald", sans-serif;
@@ -18,11 +21,13 @@ li {
     margin-top: 1.5%;
 }
 #footer-items {
-    bottom: 0;
-    position: absolute;
+    bottom: 20px;
 }
-#Hermóðr, #images {
+#Hermóðr, #images, #Privacy, #Settings, #Terms {
     float: right;
+    padding-right: 1%;
+}
+.left {
     padding-right: 1%;
 }
 input[type="submit"] {
