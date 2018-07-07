@@ -20,8 +20,9 @@ li {
     margin-left: 44.5%;
     margin-top: 1.5%;
 }
-#footer-items {
-    bottom: 20px;
+#footer {
+    bottom: -90%;
+    position: relative;
 }
 #Hermóðr, #images, #Privacy, #Settings, #Terms {
     float: right;
